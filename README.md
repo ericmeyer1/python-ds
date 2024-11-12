@@ -19,5 +19,5 @@ In this project, we continue to build on our foundation by applying python basic
   - Lists
   - Dictionaries
 
-## Interested in chatting about this project, data analytics, or just staying connected?
+## Interested in chatting about this project, data analytics, or just staying in touch?
 Connect with me on LinkedIn: [Eric Meyer](https://www.linkedin.com/in/ericmeyer123/)
