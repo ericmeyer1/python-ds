@@ -1,8 +1,23 @@
-# Python Data Structures and Notebooks
+# Web Mining & NLP - Module 2: Learning & Applying Data Structures in Python
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+## Summary
+In this project, we continue to build on our foundation by applying pythons basics and different data structures.
 
-## Rubric
+## Skills Used
+- VS Code
+- GitHub
+- Git
+- Python
+- Jupyter
 
-Each question is worth one point.
+## Python Concepts 
+- Variables
+- For loops
+- Conditionals
+- Custom functions
+- Datatypes:
+  - Lists
+  - Dictionaries
+
+## Want to chat about this project or data analytics?
+Reach me on LinkedIn here: https://www.linkedin.com/in/ericmeyer123/
